@@ -1,7 +1,9 @@
 video {
-    transform: rotateY(180deg); 
+    transform: rotateY(180deg);
+    width: 100%;
+    margin-top: 25px;
+    margin-left: 10px;
 }
-
 .select {
     height: 30px;
 }
